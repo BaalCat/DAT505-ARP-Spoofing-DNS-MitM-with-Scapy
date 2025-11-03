@@ -1,0 +1,5 @@
+protocol,count
+DNS,613
+ARP,137
+HTTP,74
+ICMP,46

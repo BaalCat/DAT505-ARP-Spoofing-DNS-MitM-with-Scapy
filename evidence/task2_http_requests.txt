@@ -1,0 +1,170 @@
+================================================================================
+HTTP REQUESTS (Full Payloads)
+================================================================================
+
+Time: 1760873792.4422112
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET / HTTP/1.1
+Host: www.test.no
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+================================================================================
+
+Time: 1760873792.4429004
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET / HTTP/1.1
+Host: www.test.no
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+================================================================================
+
+Time: 1760873792.7544513
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+Host: www.test.no
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.test.no/
+
+
+================================================================================
+
+Time: 1760873792.7550519
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+Host: www.test.no
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://www.test.no/
+
+
+================================================================================
+
+Time: 1760873804.231865
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+POST /login HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 36
+Origin: http://www.test.no
+Connection: keep-alive
+Referer: http://www.test.no/
+Upgrade-Insecure-Requests: 1
+
+username=petter&password=secret-pass
+================================================================================
+
+Time: 1760873804.2325912
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+POST /login HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 36
+Origin: http://www.test.no
+Connection: keep-alive
+Referer: http://www.test.no/
+Upgrade-Insecure-Requests: 1
+
+username=petter&password=secret-pass
+================================================================================
+
+Time: 1760873804.5920775
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://10.0.0.1/login
+
+
+================================================================================
+
+Time: 1760873804.5928133
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+GET /favicon.ico HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: image/avif,image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://10.0.0.1/login
+
+
+================================================================================
+
+Time: 1760873825.3758488
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+POST /login HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 43
+Origin: http://www.test.no
+Connection: keep-alive
+Referer: http://www.test.no/
+Upgrade-Insecure-Requests: 1
+
+username=another-user&password=another-pass
+================================================================================
+
+Time: 1760873825.3764796
+Src: 10.0.0.20 -> Dst: 10.0.0.1
+--------------------------------------------------------------------------------
+POST /login HTTP/1.1
+Host: 10.0.0.1
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 43
+Origin: http://www.test.no
+Connection: keep-alive
+Referer: http://www.test.no/
+Upgrade-Insecure-Requests: 1
+
+username=another-user&password=another-pass
+================================================================================
+

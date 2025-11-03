@@ -1,0 +1,11 @@
+timestamp,src_ip,method,url
+1760873792.4421995,10.0.0.20,GET,http://www.test.no/
+1760873792.442895,10.0.0.20,GET,http://www.test.no/
+1760873792.7544465,10.0.0.20,GET,http://www.test.no/favicon.ico
+1760873792.755046,10.0.0.20,GET,http://www.test.no/favicon.ico
+1760873804.2318583,10.0.0.20,POST,http://10.0.0.1/login
+1760873804.2325852,10.0.0.20,POST,http://10.0.0.1/login
+1760873804.592072,10.0.0.20,GET,http://10.0.0.1/favicon.ico
+1760873804.5928075,10.0.0.20,GET,http://10.0.0.1/favicon.ico
+1760873825.3758428,10.0.0.20,POST,http://10.0.0.1/login
+1760873825.3764741,10.0.0.20,POST,http://10.0.0.1/login
