@@ -1,0 +1,5 @@
+# requirements.txt
+# DAT505 — ARP Spoofing & DNS MitM Lab
+
+python>=3.13.7
+scapy==2.6.1

@@ -1,0 +1,4 @@
+# domain,spoofed_ip
+www.gamer.no,10.0.0.10
+www.test.no,10.0.0.10
+www.cat.com,10.0.0.10

@@ -1,0 +1,4 @@
+# domains to NOT spoof (forward normally)
+www.google.com
+www.test.no
+www.dog.no
